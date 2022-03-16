@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Samuel Macharia Kang'iri (Sam Macharia, PhD)</h1>
-<h3 align="center">A Computational Biomechatronics researcher from Kenya, currently in Japan for studies.</h3>
+<h3 align="center">A researcher, educator, and engineer interested in biomechatronics, computing, science, and philosophy.</h3>
 
 - 🔭 I’m currently working on [Biosensors and Bioelectronics](https://doi.org/10.1016/j.bios.2022.114011)
 
@@ -30,7 +30,7 @@
 <a href="https://stackoverflow.com/users/7842910" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="7842910" height="30" width="40" /></a>
 <a href="https://fb.com/sammachariaphd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sammachariaphd" height="30" width="40" /></a>
 <a href="https://instagram.com/sammachariaphd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sammachariaphd" height="30" width="40" /></a>
-<a href="https://medium.com/@sammachariaphd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sammachariaphd" height="30" width="40" /></a>
+<a href="https://sammachariaphd.medium.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sammachariaphd" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/sammachariaphd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sammachariaphd" height="30" width="40" /></a>
 </p>
 
