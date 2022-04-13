@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **biomechanics, computing, and philosophy of science**
 
-- 👯 I’m looking to collaborate on **biomechatronics related research**
+- 👯 I’m looking to collaborate on **biomechatronics and artificial life research**
 
 - 🤝 I’m looking for **research problems and rational discussions**
 
