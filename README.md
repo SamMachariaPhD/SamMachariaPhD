@@ -1,23 +1,23 @@
 <h1 align="center">Hello, I'm Samuel Macharia Kang'iri (Sam Macharia, PhD)</h1>
-<h3 align="center">A researcher, educator, and engineer interested in biomechatronics, computing, science, and philosophy.</h3>
+<h3 align="center">A researcher, educator, and engineer interested in engineering, computing, science, and philosophy.</h3>
 
-- 🔭 I’m currently working on [Biosensors and Bioelectronics](https://doi.org/10.1016/j.bios.2022.114011)
+- 🔭 I’m currently working on a [biomechatronics-related project](https://doi.org/10.1016/j.bios.2022.114011)
 
-- 🌱 I’m currently learning **Biomechanics, Computing, and Philosophy of Science**
+- 🌱 I’m currently learning **biomechanics, computing, and philosophy of science**
 
-- 👯 I’m looking to collaborate on **Biomechatronics related research**
+- 👯 I’m looking to collaborate on **biomechatronics related research**
 
 - 🤝 I’m looking for **research problems and rational discussions**
 
-- 👨‍💻 All of my projects are available at [https://SamMachariaPhD.github.io/](https://SamMachariaPhD.github.io/)
+- 👨‍💻 All of my projects are available at [SamMachariaPhD.github.io](https://SamMachariaPhD.github.io)
 
-- 📝 I sometimes write articles on [https://SamMachariaPhD.substack.com/](https://SamMachariaPhD.substack.com/)
+- 📝 I sometimes write articles on [SamMachariaPhD.medium.com](https://SamMachariaPhD.medium.com)
 
-- 💬 Ask me about **Computing, Biomechatronics, Science, and Philosopy**
+- 💬 Ask me about **engineering, computing, science, or philosopy**
 
-- 📄 Know about my experiences [https://SamMachariaPhD.github.io/](https://SamMachariaPhD.github.io/)
+- 📄 Know about my experiences [linktr.ee/SamMachariaPhD](https://linktr.ee/SamMachariaPhD)
 
-- ⚡ Fun fact **Science is the best way of knowing**
+- ⚡ Fun fact **so far, science is still the best way of knowing**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
