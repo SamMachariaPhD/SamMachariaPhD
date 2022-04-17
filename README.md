@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [linktr.ee/SamMachariaPhD](https://linktr.ee/SamMachariaPhD)
 
-- ⚡ Fun fact **so far, science is still the best way of knowing**
+- ⚡ Fun fact: **so far, science is still the best way of knowing**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
