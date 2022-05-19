@@ -19,7 +19,7 @@
 
 - ⚡ Fun fact: **so far, science is the best way of knowing objective truths of nature**.
 
-### Blogs posts
+<!-- ### Blogs posts -->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
