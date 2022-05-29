@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for **research problems and rational discussions**.
 
-- 👨‍💻 All of my projects are available at [orcid.org/0000-0002-7326-7502](https://orcid.org/0000-0002-7326-7502).
+- 👨‍💻 My projects are available here and at [orcid.org/0000-0002-7326-7502](https://orcid.org/0000-0002-7326-7502).
 
 - 📝 I sometimes write articles on [SamMachariaPhD.medium.com](https://SamMachariaPhD.medium.com).
 
