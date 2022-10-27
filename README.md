@@ -1,9 +1,9 @@
-<h1 align="center">Hello, I'm Samuel Macharia Kang'iri (Sam Macharia, PhD).</h1>
+<h1 align="center">Name: Sam Macharia, PhD.</h1>
 <h3 align="center">A researcher, educator, and engineer interested in engineering, computing, science, and philosophy.</h3>
 
 - 🔭 I’m currently working on a [biomechatronics-related project](https://doi.org/10.1016/j.bios.2022.114011).
 
-- 🌱 I’m currently learning **biomechanics, computing, and philosophy of science**.
+<!-- - 🌱 I’m currently learning **biomechanics, computing, and philosophy of science**. -->
 
 - 👯 I’m looking to collaborate on **biomechatronics and artificial life research**.
 
@@ -11,9 +11,9 @@
 
 - 👨‍💻 My projects are available here and at [orcid.org/0000-0002-7326-7502](https://orcid.org/0000-0002-7326-7502).
 
-- 📝 I sometimes write articles on [SamMachariaPhD.medium.com](https://SamMachariaPhD.medium.com).
+- 📝 I sometimes write articles on [SiliconWit.com](https://SiliconWit.com) or [SamMachariaPhD.medium.com](https://SamMachariaPhD.medium.com) ...
 
-- 💬 Ask me about **engineering, computing, science, or philosopy**.
+- 💬 We can talk about **engineering, computing, science, or philosopy**.
 
 - 📄 Know about my experiences: [linktr.ee/SamMachariaPhD](https://linktr.ee/SamMachariaPhD).
 
