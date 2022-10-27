@@ -1,4 +1,4 @@
-<h1 align="center">Name: Sam Macharia, PhD.</h1>
+<h1 align="center">Name: Sam Macharia, Ph.D.</h1>
 <h3 align="center">A researcher, educator, and engineer interested in engineering, computing, science, and philosophy.</h3>
 
 - 🔭 I’m currently working on a [biomechatronics-related project](https://doi.org/10.1016/j.bios.2022.114011).
