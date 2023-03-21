@@ -12,9 +12,9 @@
 
 <!-- - 🤝 I’m looking for **research problems and rational discussions**. -->
 
-- 👨‍💻 Details of my work are available at [orcid.org/0000-0002-7326-7502](https://orcid.org/0000-0002-7326-7502).
+- 👨‍💻 Summary of my work is available at [orcid.org/0000-0002-7326-7502](https://orcid.org/0000-0002-7326-7502).
 
-- 📝 Visit our new platform [SiliconWit.com](https://SiliconWit.com). 
+- 📝 Visit our new platform [SiliconWit.com](https://SiliconWit.com) for engineering, computing, science, and philosopy. 
 
 <!-- - 💬 We can talk about **engineering, computing, science, or philosopy**. -->
 
