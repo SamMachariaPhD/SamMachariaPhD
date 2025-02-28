@@ -1,14 +1,14 @@
-<h1 align="center"> Sam Macharia, Ph.D. </h1>
-<h3 align="center">A researcher, educator, and engineer interested in engineering, computing, science, and philosophy.</h3>
+<h1 align="center"> Dr. Sam Macharia (PhD) </h1>
+<h3 align="center">Researcher, educator, and engineer interested in science, computing, engineering, and philosophy.</h3>
 
-<!-- • Looking to collaborate on IoT, biomechatronics, or artificial life research. -->
-<!-- • https://SiliconWit.com -->
+<!-- • Open to collaboration in AIoT and Biophysics. -->
+<!-- • https://SiliconWit.com , https://SiliconWit.io -->
 
 <!-- - 🔭 I’m currently working on a [biomechatronics-related project](https://doi.org/10.1016/j.bios.2022.114011). -->
 
 <!-- - 🌱 I’m currently learning **biomechanics, computing, and philosophy of science**. -->
 
-- 👯 I’m looking to collaborate on **IoT, biomechatronics, or artificial life research**.
+- 👯 Open to collaboration in **AIoT** and **Biophysics**.
 
 <!-- - 🤝 I’m looking for **research problems and rational discussions**. -->
 
@@ -20,7 +20,7 @@
 
 <!-- - 📄 Know about my experiences: [linktr.ee/SamMachariaPhD](https://linktr.ee/SamMachariaPhD). -->
 
-- ⚡ Fun fact: **so far, science is the best way of knowing objective truths of nature**.
+- ⚡ Fun fact: *Science is, so far, the most reliable tool for uncovering objective truths about nature*.
 
 <!-- ### Blogs posts -->
 <!-- BLOG-POST-LIST:START -->
