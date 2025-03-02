@@ -8,13 +8,13 @@
 
 <!-- - 🌱 I’m currently learning **biomechanics, computing, and philosophy of science**. -->
 
-- 👯 Open to collaboration in **AIoT** and **Biophysics**.
+- 👯 Open to collaboration in **Artificial Intelligence of Things (AIoT)** and **BioPhysics**.
 
 <!-- - 🤝 I’m looking for **research problems and rational discussions**. -->
 
 - 👨‍💻 Summary of my work is available at [orcid.org/0000-0002-7326-7502](https://orcid.org/0000-0002-7326-7502).
 
-- 📝 Visit our new platform [SiliconWit.com](https://SiliconWit.com) for engineering, computing, science, and philosopy. 
+- 📝 Visit our new platform [SiliconWit.COM](https://SiliconWit.com) for engineering, computing, science, and philosopy. 
 
 <!-- - 💬 We can talk about **engineering, computing, science, or philosopy**. -->
 
